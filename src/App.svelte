@@ -44,7 +44,7 @@
 		  xl:py-48 md:px-8">
 		<div class="flex justify-center items-center w-full h-full overflow-hidden lg:w-1/2 lg:justify-end lg:bottom-0
 			lg:left-0 lg:items-center">
-		  <img src="https://i.ibb.co/2MTtFP4/My-project.png" class="object-contain object-top lg:w-auto lg:h-full w-full
+		  <img src="https://i.imgur.com/w4aJdCM.png" class="object-contain object-top lg:w-auto lg:h-full w-full
 			  h-auto shadow-inner"/>
 		</div>
 		<div class="mr-auto ml-auto flex justify-end relative max-w-xl xl:pr-32 lg:max-w-screen-xl">
